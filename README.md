@@ -24,4 +24,7 @@ App is now Running on
 + http://localhost:19002/
 
 ### Live Demo 
-   **[Yashfy APP](https://test-api-yashfy.herokuapp.com)**
+   **[Yashfy APP](https://test-api-yashfy.herokuapp.com/home/doctors)**
+
+### API Repo
+   **[Yashfy API](https://github.com/MohammedAimanHESSin/YASHFY-API)**
